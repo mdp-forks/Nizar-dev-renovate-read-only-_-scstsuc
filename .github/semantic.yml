@@ -1,0 +1,3 @@
+# Semantic Commit bot: https://github.com/Ezard/semantic-prs
+# Always validate the PR title, and ignore the commitstitleOnly: true
+titleOnly: false
